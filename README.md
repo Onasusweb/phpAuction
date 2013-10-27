@@ -12,4 +12,4 @@ Upcoming Features:
 - stronger password security.
 
 Demo: 
-- No demo yet, as I am in the process of moving hosts.
+- Will have a demo link placed here asap.
