@@ -10,6 +10,9 @@ Notes:
 Upcoming Features:
 - email functionality
 - stronger password security.
+- replacing bootstrap RC 3 with stable version
+- replacing icons with font awesome
+- adding require js
 
 Demo: 
 - Will have a demo link placed here asap.
