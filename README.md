@@ -1,8 +1,15 @@
 phpAuction
 ==========
 
-php5 with mysqli site, and yes, bootstrap front end again. To use, you will first need to import the MySQL queries in the resources folder. Once this is completed, please remove this directory from the project folder. This is an early version, and upcoming one with include emails, as well as stronger password security.No demo yet, as I am in the process of moving hosts.
+To use, you will first need to run the all queries/load sql files form the resources folder. Once this is completed, please remove this directory from the project folder.
 
 Notes:
 - Please be sure to change the password, and username in the SQL import. 
 - Tested on php 5.3 with mysqli extension
+
+Upcoming Features:
+- email functionality
+- stronger password security.
+
+Demo: 
+- No demo yet, as I am in the process of moving hosts.
